@@ -1,2 +1,2 @@
-print ("goodbye")
-print ("Goodby")
+print ("goodbye");
+print ("Goodby");s
